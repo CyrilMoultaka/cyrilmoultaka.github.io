@@ -241,11 +241,11 @@ img {
 #carre2{
   width : 1280px;
   height : 1200px;
- background: background: rgb(25,191,150);
-background: -moz-linear-gradient(140deg, rgba(25,191,150,1) 33%, rgba(195,201,195,1) 94%);
-background: -webkit-linear-gradient(140deg, rgba(25,191,150,1) 33%, rgba(195,201,195,1) 94%);
-background: linear-gradient(140deg, rgba(25,191,150,1) 33%, rgba(195,201,195,1) 94%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#19bf96",endColorstr="#c3c9c3",GradientType=1);;
+background: rgb(135,240,214);
+background: -moz-linear-gradient(128deg, rgba(135,240,214,1) 33%, rgba(255,255,255,1) 94%);
+background: -webkit-linear-gradient(128deg, rgba(135,240,214,1) 33%, rgba(255,255,255,1) 94%);
+background: linear-gradient(128deg, rgba(135,240,214,1) 33%, rgba(255,255,255,1) 94%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#87f0d6",endColorstr="#ffffff",GradientType=1);
   -moz-border-radius : 80px;
   -webkit-border-radius : 25px;
   border-radius : 0px;  /* ou 50% */
