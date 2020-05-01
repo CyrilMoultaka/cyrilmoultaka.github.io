@@ -71,7 +71,7 @@ h4{
 
 h5{
    
-    color: white;
+    color: black;
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
     font-family:"gill sans";
     text-align:center;
@@ -226,10 +226,7 @@ img {
 #carre{
   width : 1280px;
   height : 1600px;
- background: rgb(23,10,246);
-background: -moz-linear-gradient(312deg, rgba(23,10,246,1) 16%, rgba(180,250,233,1) 95%);
-background: -webkit-linear-gradient(312deg, rgba(23,10,246,1) 16%, rgba(180,250,233,1) 95%);
-background: linear-gradient(312deg, rgba(23,10,246,1) 16%, rgba(180,250,233,1) 95%);
+ background: white
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#170af6",endColorstr="#b4fae9",GradientType=1);
   -moz-border-radius : 80px;
   -webkit-border-radius : 25px;
@@ -246,10 +243,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#170af6",endCo
 #carre2{
   width : 1280px;
   height : 1200px;
- background: rgb(23,10,246);
-background: -moz-linear-gradient(117deg, rgba(23,10,246,1) 16%, rgba(180,250,233,1) 95%);
-background: -webkit-linear-gradient(117deg, rgba(23,10,246,1) 16%, rgba(180,250,233,1) 95%);
-background: linear-gradient(117deg, rgba(23,10,246,1) 16%, rgba(180,250,233,1) 95%);
+ background: #dbdfde;
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#170af6",endColorstr="#b4fae9",GradientType=1);
   -moz-border-radius : 80px;
   -webkit-border-radius : 25px;
