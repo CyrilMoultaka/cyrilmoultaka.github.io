@@ -223,9 +223,6 @@ img {
   width : 1920px;
   height : 1900px;
   background : black;
-  -moz-border-radius : 80px;
-  -webkit-border-radius : 25px;
-  border-radius : 0px;  /* ou 50% */
   margin-left: -20px;
   text-align:center;
   line-height: 10px; 
