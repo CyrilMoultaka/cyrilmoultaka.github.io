@@ -221,7 +221,6 @@ img {
 }
 
 #carre{
-  width : 1280px;
   max-width:1400px;
   height : 1900px;
   background : black;
@@ -235,7 +234,6 @@ img {
 
 
 #carre2{
-  width : 1280px;
   max-width:1400px;
   height : 1200px;
   background : #60B26E;
