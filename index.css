@@ -267,6 +267,7 @@ img {
   height : 13px;
   margin-left: 50px;
   margin-top: 350px;
+
   
 }
 
@@ -279,6 +280,22 @@ img {
 }
 
 #youtube3 {
+  width : 300px;
+  height : 300px;
+  margin-left: 650px;
+  margin-top: -13px;
+  
+}
+
+#youtube4 {
+  width : 30px;
+  height : 13px;
+  margin-left: 50px;
+  margin-top: 50px;
+  
+}
+
+#youtube5 {
   width : 300px;
   height : 300px;
   margin-left: 650px;
