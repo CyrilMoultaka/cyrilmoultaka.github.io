@@ -225,7 +225,11 @@ img {
 #carre{
   width : 1280px;
   height : 1600px;
-  background : black;
+ background: rgb(2,0,36);
+background: -moz-linear-gradient(71deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(0,212,255,1) 100%);
+background: -webkit-linear-gradient(71deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(0,212,255,1) 100%);
+background: linear-gradient(71deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(0,212,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
   -moz-border-radius : 80px;
   -webkit-border-radius : 25px;
   border-radius : 0px;  /* ou 50% */
