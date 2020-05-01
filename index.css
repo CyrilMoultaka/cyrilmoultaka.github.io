@@ -226,8 +226,7 @@ img {
 #carre{
   width : 1280px;
   height : 1600px;
- background: white
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#170af6",endColorstr="#b4fae9",GradientType=1);
+ background: white;
   -moz-border-radius : 80px;
   -webkit-border-radius : 25px;
   border-radius : 0px;  /* ou 50% */
