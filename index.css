@@ -29,6 +29,7 @@ body {
     margin: auto;
     max-height: 700px;
     max-width: 2400px;
+    padding: 10px 20px;
 }
 
 h1{
@@ -411,14 +412,17 @@ margin-top: 20px;
   }
 
 #formulaire{
-  width : 1380px;
+  width : 1360px;
   height : 700px;
   margin-left: -200px;
   margin-top:px;
   padding-top:0px;
   max-width:1400px;
   background-image: url("https://images.unsplash.com/photo-1553178525-6b73704b4fcf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80");
-   background-size:cover;
+  background-size:cover;
+-moz-border-radius : 80px;
+  -webkit-border-radius : 25px;
+  border-radius : 0px;  /* ou 50% */
  
   
   }
