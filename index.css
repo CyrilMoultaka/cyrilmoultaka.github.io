@@ -12,7 +12,7 @@ html {
 
 #col1{
   column-count: ;
-
+  margin-right: 600px;
 } 
 
   
@@ -26,10 +26,10 @@ body {
 
 #container {
    background-image: url(https://images.unsplash.com/photo-1472803828399-39d4ac53c6e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1421&q=80);
+    max-width: 1300px;
     margin: auto;
+    padding: 10px 20px;
     box-shadow: 0px 0px 30px 2px rgba( 0, 0, 0, 0.95 );
-    max-height: 700px;
-    max-width: 2000px;
 }
 
 h1{
@@ -60,8 +60,7 @@ h2{
 h4{
    
     color: white;
-    font-family:"Arial black";
-    font-weight: bold;
+    font-family:"LuloCleanW01-OneBold";
     font-size:50px;
    text-shadow: 0.1em 0.01em #60B26E;
   border-bottom: dotted 1px white;
@@ -170,7 +169,7 @@ li{
   color: grey;
   text-align: left;
   padding: 14px 16px;
-  margin-left:10%;
+  margin-left:120px;
   text-decoration: none;
   float:left;
     -webkit-transition: 0.5s ease;
@@ -185,7 +184,6 @@ li{
 
 
 ul {
-
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -193,6 +191,7 @@ ul {
     position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
+  overflow: hidden;
   background-color: white;
   
 
@@ -216,15 +215,13 @@ img {
   text-align:center;
   line-height: 20px; 
   padding-top:140px;
-
   
   
 }
 
 #carre{
- 
-  height : 1900px;
-  
+  width : 1280px;
+  height : 1600px;
   background : black;
   -moz-border-radius : 80px;
   -webkit-border-radius : 25px;
@@ -234,13 +231,12 @@ img {
   line-height: 10px; 
   padding-top:1px;
   margin-top: 50px;
- 
   
   }
 
 
 #carre2{
-
+  width : 1280px;
   height : 1200px;
   background : #60B26E;
   -moz-border-radius : 80px;
@@ -252,14 +248,8 @@ img {
   padding-top:1px;
   margin-top: 00px;
   margin-bottom: 200px;
-
   
   }
-
-  #carre2.disabled {
-    overflow-x: hidden; //horizontal
-    
-}
 
   #videos {
   width : 100px;
@@ -269,21 +259,6 @@ img {
   color: white;
   text-align:left;
   line-height: 60px; 
-
-  
-  }
-
-   }
-
-  #photos {
-  width : 100px;
-  height : 130px;
-  margin-left: 200px;
-  margin-top: 70px;
-  color: white;
-  text-align:left;
-  line-height: 60px; 
-
   
   }
   
@@ -292,7 +267,6 @@ img {
   height : 13px;
   margin-left: 50px;
   margin-top: 350px;
-
   
 }
 
@@ -312,20 +286,11 @@ img {
   
 }
 
-#youtube4 {
-  width : 30px;
-  height : 13px;
-  margin-left: 50px;
-  margin-top: 50px;
-  
-}
-
-#youtube5 {
-  width : 300px;
-  height : 300px;
-  margin-left: 650px;
-  margin-top: -13px;
-  
+#textyt3 {
+width : 500px;
+height : 100px;
+margin-left: 30px;
+margin-top: 20px;
 }
 
  
@@ -435,12 +400,13 @@ img {
   }
 
 #formulaire{
-  height: 700px;
-  width:1435px;
-  margin-left: -450px;
+  width : 1280px;
+  height : 700px;
+  margin-left: -200px;
+  margin-top:px;
+  padding-top:0px;
   background-image: url("https://images.unsplash.com/photo-1553178525-6b73704b4fcf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80");
-
-
+   background-size:cover;
  
   
   }
