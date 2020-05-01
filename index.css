@@ -189,7 +189,7 @@ ul {
   -webkit-transition: 1s ease;
     position: -webkit-sticky; /* Safari */
   position: sticky;
-  top: 0;
+  top: -50;
   overflow: hidden;
   background-color: white;
   
@@ -411,7 +411,7 @@ margin-top: 20px;
   }
 
 #formulaire{
-  width : 1350px;
+  width : 1380px;
   height : 700px;
   margin-left: -200px;
   margin-top:px;
